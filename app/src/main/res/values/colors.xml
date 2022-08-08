@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
+    <color name="purple_500">#3E9DFD</color>
+<!--    <color name="purple_500">#FF6200EE</color>-->
+<!--    <color name="purple_700">#FF3700B3</color>-->
+    <color name="purple_700">#3E9DFD</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="splash_Background">#AB3CFC</color>
+    <color name="splash_Background">#363A66</color>
     <color name="main_Background">#189F8B</color>
-    <color name="get_start_button">#4094E2</color>
-    <color name="button_true">#8CE049</color>
-    <color name="button_false">#E94E4E</color>
+    <color name="get_start_button">#3E9DFD</color>
+    <color name="button_true">#CF5AA6</color>
+    <color name="button_false">#CF5AA6</color>
+
+    <color name="background">#1E1E1E</color>
+    <color name="tvColor">#CFF1F8</color>
+    <color name="btnc">#5A7FC3</color>
 
 </resources>

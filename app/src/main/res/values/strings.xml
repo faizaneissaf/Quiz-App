@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ITask_QuizApplication</string>
+    <string name="totalq">Total Questions : </string>
 </resources>
